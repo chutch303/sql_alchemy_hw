@@ -1,1 +1,1 @@
-# sql_alchemy_practice
+# sql_alchemy_project
